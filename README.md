@@ -1,3 +1,3 @@
 # Profiles REST API
 
-Python & Django course code.
+Source code for profiles REST API  using Python & Django
